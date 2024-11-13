@@ -1,18 +1,18 @@
 # Rock Paper Scissors
-![image](https://user-images.githubusercontent.com/128680209/227774568-03e8bbed-62c4-4f51-9a40-218bb35ee1c6.png)
 
-##  🛠 Description
-The object of the rock-paper-scissor Python project is to build a game for a single player that plays with a computer, anywhere, and anytime. 
-This project is based on the following rules: 
-rock blunts scissors so rock wins. scissors cut the paper so scissors win. Use any Python online compiler to download Python [here](https://www.python.org/downloads).
+## Screenshot
+
+![alt text](Screenshot1.png)
+
+
+This project is a Rock Paper Scissors game built with [Python 3](https://www.python.org/downloads), allowing a player to compete against the computer. The player selects rock, paper, or scissors, and the computer makes a random choice. The program then determines the winner based on the traditional game rules and displays the result. It’s a fun way to practice Python skills like user input, conditional statements, and randomization, with opportunities to expand by adding a scoring system or multiple rounds.
+
 
 ### To be Played with a Computer.
-+ You can enter the number of games you want to play.
-+ There is also a score window which is displayed after every turn.
+
++ `You can enter the number of games you want to play.`
++ `There is also a score window which is displayed after every turn.`
 
 ## 🌟 How to run
-```
-python rock_paper_scissors.py
-```
-## 📺 Demo
-![image](https://user-images.githubusercontent.com/128680209/227775438-de5f9742-b870-4386-b385-5039ad5cec32.png)
+
++ `python3 rock_paper_scissors.py`
